@@ -14,8 +14,21 @@ The results of each of these modules can be found below:
 
 Module 1 - Link to the 3D object files on the Github repository: https://github.com/KurtGrunsky/hist3812-example-repo-for-artifact/tree/master/3d-object-files
 
-The model on Sketchfab:
+Link to the model on Sketchfab: https://sketchfab.com/models/d4c37708d2ca42d588e1fea1fab65e9d
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/d4c37708d2ca42d588e1fea1fab65e9d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/models/d4c37708d2ca42d588e1fea1fab65e9d?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">MODEL</a> by <a href="https://sketchfab.com/kurtgrunsky?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">kurtgrunsky</a> on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a> </p> </div>
+Module 2 - Link to the attempted "mash-up" of models on Sketchfab: https://sketchfab.com/models/d01336e054c2436f93a25398bcc55334
+
+Module 3 - Link to the Twine game on philome.la: http://philome.la/momgaret/free-willy---a-story-of-archaeology-and-memory
+
+Module 4 - Link to the trigger image in Dropbox: https://www.dropbox.com/s/rz6zjd52vvcmf2v/All_Gizah_Pyramids_With_Text.jpg?dl=0
+
+Aura can be found on the HP Reveal mobile app under the title "William - With And Without Legs".
+
 
 In this portfolio, I will explore some of the issues that occurred throughout the various modules. I will also explore what our processes taught me about the general practice of digitizing historical artifacts. I learned about a kind of distortion that appears to be inevitable when working with new technologies. I also learned which tools were more useful for digitizing history compared to others. I found economic and copyright issues throughout our processes which proved to be hindrances. Finally, while I found many of the readings on the philosophical perspectives concerning the nature of the "original" object fascinating, they turned out to be more interesting from a purely theoretical viewpoint - partially because of our temporal and economic constraints we faced from working on these projects as part of a semester-long course.
+
+## Digital History Often Involves Distortion
+
+Frequently, our projects for each module were distorted in some way at the point of their "final" versions. As mentioned in the introduction, 3D models often lacked textures that allowed them to be recognizeable objects, but there were further issues: our very first 3D model had strange "chunks" missing from its edges and "holes that were present; the model went through a series of scaling modifications to ensure it was even visible; the model's quality had to be reduced in order for HP Reveal to allow it to be uploaded in the first place. All these changes ended up distorting the appearance of the object we were working with.
+
+The most obvious source of these distortions would be the limitations we had surrounding our own technological competence, as well as the limited availability of various technologies to achieve our purposes. 
